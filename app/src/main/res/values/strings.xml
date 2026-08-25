@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shorts Blocker</string>
+    <string name="accessibility_service_description">Erkennt und blockiert YouTube Shorts in der YouTube App und mobilen Webbrowsern automatisch, um dich vor Endlos-Videos zu schützen.</string>
+</resources>

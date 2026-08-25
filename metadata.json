@@ -1,0 +1,6 @@
+{
+  "name": "Shorts Blocker",
+  "description": "Erkennt YouTube Shorts in der YouTube App und im Browser, leitet automatisch zurück und bietet ein konfigurierbares tägliches Zeitlimit mit Benachrichtigung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
